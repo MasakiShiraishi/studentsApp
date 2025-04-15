@@ -1,0 +1,20 @@
+# ASP.NET Core MVC-related
+bin/
+obj/
+.vs/
+
+# Log files
+*.log
+
+# Environment-specific configuration files
+appsettings.Development.json
+
+# Package-related
+packages/
+node_modules/
+
+# IDE-specific files
+*.user
+*.suo
+*.psess
+*.vscode/
